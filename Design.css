@@ -118,12 +118,58 @@ a.home::after {
   bottom: 44%;
  
 }
+
+.mypersonalstory::after {
+  content: '';
+  height: 2px;
+  width: 100px;
+  background: #363636;
+  position: absolute;
+  left: 35%;
+  bottom: 20%;
+}
+
+.tips::after {
+  content: '';
+  height: 2px;
+  width: 40px;
+  background: #363636;
+  position: absolute;
+  left: 44%;
+  bottom: 20%;
+}
  
+.cubes::after {
+  content: '';
+  height: 2px;
+  width: 58px;
+  background: #363636;
+  position: absolute;
+  left: 48.7%;
+  bottom: 20%;
+}
  
- 
- 
- 
- 
+.maintenance::after {
+  content: '';
+  height: 2px;
+  width: 100px;
+  background: #363636;
+  position: absolute;
+  left: 55%;
+  bottom: 20%;
+}
+
+.contact::after {
+  content: '';
+  height: 2px;
+  width: 70px;
+  background: #363636;
+  position: absolute;
+  left: 64%;
+  bottom: 20%;
+}
+
+
  
       .mps-text {
         background-color:#A5C8E4;
